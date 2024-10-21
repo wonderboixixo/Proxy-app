@@ -33,6 +33,11 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/BioHazard786/Nyaa-Proxy&branch=master&name=Nyaa-Proxy&builder=dockerfile&ports=8000;http;/)
 
+### Change proxy to default one:
+- To change proxy just enter `/proxy-change`
+- It will redirect you to root route
+- deafault is "nyaa.si"
+
 ## Deploying a Worker
 
 ### Manual Deployment (recommended)
